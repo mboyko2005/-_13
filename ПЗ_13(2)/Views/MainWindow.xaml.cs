@@ -9,11 +9,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ПЗ_13_2_
+namespace ПЗ_13_2.Views
 {
-	/// <summary>
-	/// Interaction logic for MainWindow.xaml
-	/// </summary>
 	public partial class MainWindow : Window
 	{
 		public MainWindow()
